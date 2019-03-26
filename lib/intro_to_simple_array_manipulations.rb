@@ -30,6 +30,18 @@ def using_insert(array,string)
   
 end
 
+def using_uniq(array,string)
+  
+end
+
+def using_flatten(array,string)
+  
+end
+
+def using_delete(array,string)
+  
+end
+
 
 
 
