@@ -14,11 +14,11 @@ def pop_with_args(array)
   
 end
 
-def using_shift(array,string)
+def using_shift(array)
   
 end
 
-def shift_with_args(array,string)
+def shift_with_args(array)
   
 end
 
